@@ -1,6 +1,6 @@
 # hello-world
-###### Experimenting with noSuchMethod
-class  OObject`
+###### Experimenting with `noSuchMethod`
+The class `OObject` is referred as `dynamic` so 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNzUwODU2OF19
+eyJoaXN0b3J5IjpbLTg2MzA1ODc4NV19
 -->
