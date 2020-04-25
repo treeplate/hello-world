@@ -1,6 +1,6 @@
 class OObject {
   void noSuchMethod(Invocation invocation){
-    
+    print(invocation.memberName);
   }
 }
 
