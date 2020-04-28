@@ -1,2 +1,2 @@
 language = "dart"
-run = "dart main.dart"
+run = "dart main.dart; echo 'Done.'"
