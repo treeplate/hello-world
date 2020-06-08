@@ -28,3 +28,11 @@ void main(){
   oobject.func = (String arg, List stringg){print(stringg + <String>[arg]);};
   oobject.func("Hello!", <dynamic>["Hi, or"]);
 }
+
+/*stackedit_data:
+eyJoaXN0b3J5IjpbMTY3MDQzODk3NywxMDA3NjczOTAzLC0xMD
+kwNjcyODQ5XX0=
+*/
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE5NDAxNDQ3NTFdfQ==
+-->
